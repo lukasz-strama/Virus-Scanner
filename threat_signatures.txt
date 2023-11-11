@@ -1,0 +1,13 @@
+# threat_signatures.txt
+
+# Hexadecimal signature for a common executable file format
+4D 5A 90 00 03 00 00 00 04 00 00 00 FF FF 00 00 B8 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+# String signature for a generic malware string
+malware123
+
+# Behavioral signature for attempting to create a backdoor
+[Behavior] Attempted creation of a backdoor.
+
+# Another example hexadecimal signature
+55 8B EC 83 EC 0C 53 56 57 33 FF 8D 7C 24 20 33 C0 55 68 0C 12 00 00 64 FF 30 64 89 20 33 C0 5F 5E 5B 83 C4 0C C3

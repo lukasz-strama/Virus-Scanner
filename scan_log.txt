@@ -1,0 +1,5 @@
+File: C:\Users\lukas\Projects\c_clock\c_clock.exe | Threat Detected: No
+File: C:\Users\lukas\Projects\c_clock\c_clock.exe | Threat Detected: No
+File: C:\Users\lukas\Projects\VirusScanner\tests\positive | Threat Detected: Yes
+File: C:\Users\lukas\Projects\VirusScanner\tests\positive | Threat Detected: Yes
+File: C:\Users\lukas\Projects\VirusScanner\virus.exe | Threat Detected: Yes
